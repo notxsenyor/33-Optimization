@@ -1,0 +1,1 @@
+Installing a new gpu driver may cause fps drops for about 60 minutes, all you have to do is play for them to go away!
